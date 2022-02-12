@@ -7,12 +7,19 @@ The long and short of it is, put the files in your .config folder.
 You'll proably want to edit the i3 autostart section in i3/config. It's labelled # Auto start applications
 
 I use blueman for bluetooth management
+
 feh for wallpaper
+
 flameshot for screenshots
+
 dunst for notifications
+
 thunar as my gui file manager
+
 picom for compositing
+
 and pia is in there for my vpn but you'll surely want to delete that.
+
 Anyways, you get the idea.
 Use with caution, know what you're doing. Check the configs and edit to get your desired effect.
 
